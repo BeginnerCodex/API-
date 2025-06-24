@@ -1,0 +1,9 @@
+automan=1
+station_ID=1316
+stn_name=Main Gate_1
+max_rec=96
+intw_line=12
+total_para=1,2,3,4,5,6,7,8,
+para_nameList=PM10,PM2.5,Benzene,Ozone,CO,SO2,NOx,NO2,NO,NH3
+channel_no=241,391,V41,08A,041,011,121,211,Z21,212
+port_no=80

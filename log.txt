@@ -1,0 +1,376 @@
+[Fri 09/06/2024 16:49:03.77] Starting ConsoleApplication1 with CONFIG.txt 
+'ConsoleApplication1.exe' is not recognized as an internal or external command,
+operable program or batch file.
+[Fri 09/06/2024 16:49:03.84] Error occurred with exit code 9009 
+[Fri 09/06/2024 16:49:03.85] Finished execution 
+[Fri 09/06/2024 16:49:31.56] Starting ConsoleApplication1 with CONFIG.txt 
+'ConsoleApplication1.exe' is not recognized as an internal or external command,
+operable program or batch file.
+[Fri 09/06/2024 16:49:31.59] Error occurred with exit code 9009 
+[Fri 09/06/2024 16:49:31.59] Finished execution 
+[Fri 09/06/2024 16:49:46.48] Starting ConsoleApplication1 with CONFIG.txt 
+'ConsoleApplication1.exe' is not recognized as an internal or external command,
+operable program or batch file.
+[Fri 09/06/2024 16:49:46.51] Error occurred with exit code 9009 
+[Fri 09/06/2024 16:49:46.51] Finished execution 
+[Fri 09/06/2024 16:53:39.34] Starting ConsoleApp2 with CONFIG.txt 
+Log message saved to: C:\Users\HR\Documents\app_log.txt
+Press Enter to exit...
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Fri 09/06/2024 16:53:45.40] Application executed successfully 
+[Fri 09/06/2024 16:53:45.40] Finished execution 
+[Fri 09/06/2024 16:54:25.02] Starting ConsoleApp2 with CONFIG.txt 
+Log message saved to: C:\Users\HR\Documents\app_log.txt
+Press Enter to exit...
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Fri 09/06/2024 16:54:39.96] Application executed successfully 
+[Fri 09/06/2024 16:54:39.96] Finished execution 
+[Fri 09/06/2024 16:58:44.68] Starting ConsoleApp2 with CONFIG.txt 
+Log message saved to: C:\Users\HR\Documents\app_log.txt
+Press Enter to exit...
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Fri 09/06/2024 16:59:10.29] Application executed successfully 
+[Fri 09/06/2024 16:59:10.29] Finished execution 
+[Fri 09/06/2024 17:09:50.05] Starting ConsoleApp2 with CONFIG.txt 
+Log message saved to: C:\Users\HR\Documents\app_log.txt
+Press Enter to exit...
+[Mon 09/09/2024 10:51:57.52] Starting ConsoleApp2 with CONFIG.txt 
+Log message saved to: C:\Users\HR\Documents\app_log.txt
+Press Enter to exit...
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Mon 09/09/2024 10:52:05.52] Application executed successfully 
+[Mon 09/09/2024 10:52:05.52] Finished execution 
+[Mon 09/09/2024 10:54:53.66] Starting ConsoleApp2 with CONFIG.txt 
+Log message saved to: C:\Users\HR\Documents\app_log.txt
+Press Enter to exit...
+^C[Mon 09/09/2024 11:09:51.51] Starting ConsoleApp2 with CONFIG.txt 
+[Mon 09/09/2024 11:39:50.30] Starting ConsoleApp2 with CONFIG.txt 
+[Mon 09/09/2024 11:39:55.17] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Mon 09/09/2024 11:39:56.29] Application executed successfully 
+[Mon 09/09/2024 11:39:56.30] Finished execution 
+[Mon 09/09/2024 11:54:50.05] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Mon 09/09/2024 11:54:52.38] Application executed successfully 
+[Mon 09/09/2024 11:54:52.38] Finished execution 
+[Mon 09/09/2024 12:09:50.12] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Mon 09/09/2024 12:09:51.70] Application executed successfully 
+[Mon 09/09/2024 12:09:51.70] Finished execution 
+[Mon 09/09/2024 12:24:50.18] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Mon 09/09/2024 12:24:52.80] Application executed successfully 
+[Mon 09/09/2024 12:24:52.80] Finished execution 
+[Mon 09/09/2024 12:39:49.98] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Mon 09/09/2024 12:39:51.88] Application executed successfully 
+[Mon 09/09/2024 12:39:51.89] Finished execution 
+[Mon 09/09/2024 12:54:50.10] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Mon 09/09/2024 12:54:51.99] Application executed successfully 
+[Mon 09/09/2024 12:54:51.99] Finished execution 
+[Mon 09/09/2024 13:09:49.98] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Mon 09/09/2024 13:09:52.11] Application executed successfully 
+[Mon 09/09/2024 13:09:52.11] Finished execution 
+[Mon 09/09/2024 13:24:49.97] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Mon 09/09/2024 13:24:51.58] Application executed successfully 
+[Mon 09/09/2024 13:24:51.59] Finished execution 
+[Mon 09/09/2024 13:58:37.75] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Mon 09/09/2024 13:58:50.18] Application executed successfully 
+[Mon 09/09/2024 13:58:50.18] Finished execution 
+[Mon 09/09/2024 14:09:52.33] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Mon 09/09/2024 14:10:07.59] Application executed successfully 
+[Mon 09/09/2024 14:10:07.59] Finished execution 
+[Mon 09/09/2024 14:24:50.30] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Mon 09/09/2024 14:24:53.82] Application executed successfully 
+[Mon 09/09/2024 14:24:53.82] Finished execution 
+[Mon 09/09/2024 14:39:50.95] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Mon 09/09/2024 14:39:55.84] Application executed successfully 
+[Mon 09/09/2024 14:39:55.84] Finished execution 
+[Mon 09/09/2024 14:54:50.25] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Mon 09/09/2024 14:54:54.50] Application executed successfully 
+[Mon 09/09/2024 14:54:54.50] Finished execution 
+[Mon 09/09/2024 15:09:49.94] Starting ConsoleApp2 with CONFIG.txt 
+^C[Mon 09/09/2024 15:24:49.97] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Mon 09/09/2024 15:24:52.49] Application executed successfully 
+[Mon 09/09/2024 15:24:52.49] Finished execution 
+[Mon 09/09/2024 15:39:50.56] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Mon 09/09/2024 15:39:56.64] Application executed successfully 
+[Mon 09/09/2024 15:39:56.64] Finished execution 
+[Mon 09/09/2024 15:54:59.53] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Mon 09/09/2024 15:55:08.24] Application executed successfully 
+[Mon 09/09/2024 15:55:08.25] Finished execution 
+[Mon 09/09/2024 16:09:54.25] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Mon 09/09/2024 16:09:59.17] Application executed successfully 
+[Mon 09/09/2024 16:09:59.17] Finished execution 
+[Mon 09/09/2024 16:24:50.73] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Mon 09/09/2024 16:24:55.73] Application executed successfully 
+[Mon 09/09/2024 16:24:55.74] Finished execution 
+[Mon 09/09/2024 16:39:50.24] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Mon 09/09/2024 16:39:52.83] Application executed successfully 
+[Mon 09/09/2024 16:39:52.84] Finished execution 
+[Mon 09/09/2024 16:54:50.47] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Mon 09/09/2024 16:54:52.74] Application executed successfully 
+[Mon 09/09/2024 16:54:52.75] Finished execution 
+[Mon 09/09/2024 17:09:49.98] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Mon 09/09/2024 17:09:52.58] Application executed successfully 
+[Mon 09/09/2024 17:09:52.58] Finished execution 
+[Mon 09/09/2024 17:24:50.02] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Mon 09/09/2024 17:24:52.49] Application executed successfully 
+[Mon 09/09/2024 17:24:52.50] Finished execution 
+[Mon 09/09/2024 17:39:50.36] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Mon 09/09/2024 17:39:55.82] Application executed successfully 
+[Mon 09/09/2024 17:39:55.83] Finished execution 
+[Mon 09/09/2024 17:54:50.59] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Mon 09/09/2024 17:54:53.48] Application executed successfully 
+[Mon 09/09/2024 17:54:53.49] Finished execution 
+[Mon 09/09/2024 18:09:50.54] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Mon 09/09/2024 18:09:53.18] Application executed successfully 
+[Mon 09/09/2024 18:09:53.19] Finished execution 
+[Tue 09/10/2024 10:24:49.99] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Tue 09/10/2024 10:24:51.96] Application executed successfully 
+[Tue 09/10/2024 10:24:51.96] Finished execution 
+[Tue 09/10/2024 10:39:49.98] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Tue 09/10/2024 10:39:53.94] Application executed successfully 
+[Tue 09/10/2024 10:39:53.95] Finished execution 
+[Tue 09/10/2024 10:54:49.97] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Tue 09/10/2024 10:54:51.76] Application executed successfully 
+[Tue 09/10/2024 10:54:51.76] Finished execution 
+[Tue 09/10/2024 11:09:49.98] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Tue 09/10/2024 11:09:55.00] Application executed successfully 
+[Tue 09/10/2024 11:09:55.00] Finished execution 
+[Tue 09/10/2024 11:24:50.59] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Tue 09/10/2024 11:25:23.97] Application executed successfully 
+[Tue 09/10/2024 11:25:23.97] Finished execution 
+[Tue 09/10/2024 11:39:54.36] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Tue 09/10/2024 11:40:57.88] Application executed successfully 
+[Tue 09/10/2024 11:40:57.89] Finished execution 
+[Tue 09/10/2024 11:54:51.47] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Tue 09/10/2024 11:55:05.05] Application executed successfully 
+[Tue 09/10/2024 11:55:05.07] Finished execution 
+[Tue 09/10/2024 12:09:50.22] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Tue 09/10/2024 12:09:56.17] Application executed successfully 
+[Tue 09/10/2024 12:09:56.17] Finished execution 
+[Tue 09/10/2024 12:24:50.98] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Tue 09/10/2024 12:24:58.86] Application executed successfully 
+[Tue 09/10/2024 12:24:58.86] Finished execution 
+[Tue 09/10/2024 12:39:50.42] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Tue 09/10/2024 12:40:02.96] Application executed successfully 
+[Tue 09/10/2024 12:40:02.97] Finished execution 
+[Tue 09/10/2024 12:54:50.69] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Tue 09/10/2024 12:54:59.68] Application executed successfully 
+[Tue 09/10/2024 12:54:59.68] Finished execution 
+[Tue 09/10/2024 13:09:50.86] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Tue 09/10/2024 13:09:55.78] Application executed successfully 
+[Tue 09/10/2024 13:09:55.78] Finished execution 
+[Tue 09/10/2024 13:25:07.07] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Tue 09/10/2024 13:25:14.98] Application executed successfully 
+[Tue 09/10/2024 13:25:14.98] Finished execution 
+[Tue 09/10/2024 13:39:50.49] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Tue 09/10/2024 13:39:53.68] Application executed successfully 
+[Tue 09/10/2024 13:39:53.68] Finished execution 
+[Tue 09/10/2024 13:54:50.32] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Tue 09/10/2024 13:54:53.36] Application executed successfully 
+[Tue 09/10/2024 13:54:53.37] Finished execution 
+[Tue 09/10/2024 14:09:50.45] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Tue 09/10/2024 14:09:56.02] Application executed successfully 
+[Tue 09/10/2024 14:09:56.02] Finished execution 
+[Tue 09/10/2024 14:24:51.56] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Tue 09/10/2024 14:25:04.21] Application executed successfully 
+[Tue 09/10/2024 14:25:04.21] Finished execution 
+[Tue 09/10/2024 14:39:51.58] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Tue 09/10/2024 14:39:56.67] Application executed successfully 
+[Tue 09/10/2024 14:39:56.67] Finished execution 
+[Tue 09/10/2024 14:54:51.98] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Tue 09/10/2024 14:54:56.93] Application executed successfully 
+[Tue 09/10/2024 14:54:56.94] Finished execution 
+[Tue 09/10/2024 15:09:50.24] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Tue 09/10/2024 15:09:55.53] Application executed successfully 
+[Tue 09/10/2024 15:09:55.54] Finished execution 
+[Tue 09/10/2024 15:24:52.09] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Tue 09/10/2024 15:26:20.15] Application executed successfully 
+[Tue 09/10/2024 15:26:20.15] Finished execution 
+[Tue 09/10/2024 15:39:51.99] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Tue 09/10/2024 15:40:02.93] Application executed successfully 
+[Tue 09/10/2024 15:40:02.93] Finished execution 
+[Tue 09/10/2024 15:54:53.82] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Tue 09/10/2024 15:55:10.06] Application executed successfully 
+[Tue 09/10/2024 15:55:10.06] Finished execution 
+[Tue 09/10/2024 16:09:54.50] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Tue 09/10/2024 16:10:27.66] Application executed successfully 
+[Tue 09/10/2024 16:10:27.66] Finished execution 
+[Tue 09/10/2024 16:24:51.20] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Tue 09/10/2024 16:24:56.58] Application executed successfully 
+[Tue 09/10/2024 16:24:56.58] Finished execution 
+[Tue 09/10/2024 16:39:50.63] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Tue 09/10/2024 16:39:56.47] Application executed successfully 
+[Tue 09/10/2024 16:39:56.47] Finished execution 
+[Tue 09/10/2024 16:54:52.54] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Tue 09/10/2024 16:55:00.20] Application executed successfully 
+[Tue 09/10/2024 16:55:00.20] Finished execution 
+[Tue 09/10/2024 17:09:51.00] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Tue 09/10/2024 17:10:01.37] Application executed successfully 
+[Tue 09/10/2024 17:10:01.37] Finished execution 
+[Tue 09/10/2024 17:24:50.52] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Tue 09/10/2024 17:24:56.62] Application executed successfully 
+[Tue 09/10/2024 17:24:56.62] Finished execution 
+[Tue 09/10/2024 17:39:58.23] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Tue 09/10/2024 17:40:14.01] Application executed successfully 
+[Tue 09/10/2024 17:40:14.01] Finished execution 
+[Tue 09/10/2024 17:54:52.00] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Tue 09/10/2024 17:54:58.61] Application executed successfully 
+[Tue 09/10/2024 17:54:58.61] Finished execution 
+[Tue 09/10/2024 18:09:50.28] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Tue 09/10/2024 18:09:52.97] Application executed successfully 
+[Tue 09/10/2024 18:09:52.97] Finished execution 
+[Tue 09/17/2024 12:24:53.01] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Tue 09/17/2024 12:25:49.37] Application executed successfully 
+[Tue 09/17/2024 12:25:49.37] Finished execution 
+[Tue 09/17/2024 12:39:50.22] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Tue 09/17/2024 12:39:53.98] Application executed successfully 
+[Tue 09/17/2024 12:39:53.98] Finished execution 
+[Tue 09/17/2024 12:54:50.10] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Tue 09/17/2024 12:54:52.88] Application executed successfully 
+[Tue 09/17/2024 12:54:52.88] Finished execution 
+[Tue 09/17/2024 13:09:50.16] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Tue 09/17/2024 13:09:53.33] Application executed successfully 
+[Tue 09/17/2024 13:09:53.34] Finished execution 
+[Tue 09/17/2024 13:24:49.98] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Tue 09/17/2024 13:24:52.24] Application executed successfully 
+[Tue 09/17/2024 13:24:52.25] Finished execution 
+[Tue 09/17/2024 13:39:50.06] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Tue 09/17/2024 13:39:52.75] Application executed successfully 
+[Tue 09/17/2024 13:39:52.75] Finished execution 
+[Tue 09/17/2024 13:54:49.97] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Tue 09/17/2024 13:55:00.78] Application executed successfully 
+[Tue 09/17/2024 13:55:00.78] Finished execution 
+[Tue 09/17/2024 14:09:50.14] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\BHARAT_FORGE.csv
+[Tue 09/17/2024 14:09:52.15] Application executed successfully 
+[Tue 09/17/2024 14:09:52.16] Finished execution 
+[14/01/2025 11:46:02.26] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\Main Gate_1.txt
+[14/01/2025 11:46:02.57] Application executed successfully 
+[14/01/2025 11:46:02.58] Finished execution 
+[14/01/2025 12:01:02.25] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\Main Gate_1.txt
+[14/01/2025 12:01:02.54] Application executed successfully 
+[14/01/2025 12:01:02.56] Finished execution 
+[14/01/2025 12:16:02.25] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\Main Gate_1.txt
+[14/01/2025 12:16:02.55] Application executed successfully 
+[14/01/2025 12:16:02.56] Finished execution 
+[14/01/2025 12:31:02.25] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\Main Gate_1.txt
+[14/01/2025 12:31:02.55] Application executed successfully 
+[14/01/2025 12:31:02.57] Finished execution 
+[14/01/2025 12:46:02.25] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\Main Gate_1.txt
+[14/01/2025 12:46:02.55] Application executed successfully 
+[14/01/2025 12:46:02.56] Finished execution 
+[14/01/2025 13:01:02.26] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\Main Gate_1.txt
+[14/01/2025 13:01:02.56] Application executed successfully 
+[14/01/2025 13:01:02.57] Finished execution 
+[14/01/2025 13:16:02.25] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\Main Gate_1.txt
+[14/01/2025 13:16:02.55] Application executed successfully 
+[14/01/2025 13:16:02.56] Finished execution 
+[14/01/2025 13:31:02.25] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\Main Gate_1.txt
+[14/01/2025 13:31:02.55] Application executed successfully 
+[14/01/2025 13:31:02.56] Finished execution 
+[14/01/2025 13:46:02.26] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\Main Gate_1.txt
+[14/01/2025 13:46:02.57] Application executed successfully 
+[14/01/2025 13:46:02.58] Finished execution 
+[14/01/2025 14:01:02.24] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\Main Gate_1.txt
+[14/01/2025 14:01:02.54] Application executed successfully 
+[14/01/2025 14:01:02.55] Finished execution 
+[14/01/2025 14:16:02.25] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\Main Gate_1.txt
+[14/01/2025 14:16:02.56] Application executed successfully 
+[14/01/2025 14:16:02.57] Finished execution 
+[14/01/2025 14:31:02.26] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\Main Gate_1.txt
+[14/01/2025 14:31:02.56] Application executed successfully 
+[14/01/2025 14:31:02.57] Finished execution 
+[14/01/2025 14:46:02.26] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\Main Gate_1.txt
+[14/01/2025 14:46:02.56] Application executed successfully 
+[14/01/2025 14:46:02.57] Finished execution 
+[14/01/2025 15:01:02.25] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\Main Gate_1.txt
+[14/01/2025 15:01:02.54] Application executed successfully 
+[14/01/2025 15:01:02.56] Finished execution 
+[14/01/2025 15:16:02.26] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\Main Gate_1.txt
+[14/01/2025 15:16:02.55] Application executed successfully 
+[14/01/2025 15:16:02.56] Finished execution 
+[14/01/2025 15:31:02.25] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\Main Gate_1.txt
+[14/01/2025 15:31:02.58] Application executed successfully 
+[14/01/2025 15:31:02.59] Finished execution 
+[14/01/2025 15:55:28.98] Starting ConsoleApp2 with CONFIG.txt 
+Data exported successfully to C:\DATA\Main Gate_1.txt
+[14/01/2025 15:55:29.68] Application executed successfully 
+[14/01/2025 15:55:29.69] Finished execution 
